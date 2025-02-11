@@ -1,0 +1,905 @@
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/selenium-manager/linux/selenium-manager
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/selenium-manager/macos/selenium-manager
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/selenium-manager/windows/selenium-manager.exe
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/NUnit3.TestAdapter.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/NUnit3.TestAdapter.pdb
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/nunit.engine.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/nunit.engine.api.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/nunit.engine.core.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/testcentric.engine.metadata.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/LumaAutomation.deps.json
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/LumaAutomation.runtimeconfig.json
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/LumaAutomation.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/LumaAutomation.pdb
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/AngleSharp.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/DnsClient.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/SeleniumExtras.PageObjects.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/SeleniumExtras.WaitHelpers.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/ExtentReports.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Diagnostics.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.HostFiltering.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Hosting.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Http.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Http.Features.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Routing.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.IIS.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.Https.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.WebUtilities.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.Configuration.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.Console.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.Debug.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.EventSource.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.ObjectPool.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Net.Http.Headers.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.Utilities.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/testhost.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/MongoDB.Bson.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/MongoDB.Driver.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/MongoDB.Driver.Core.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/MongoDB.Libmongocrypt.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/nunit.framework.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/nunit.framework.legacy.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/RazorEngine.NetCore.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/WebDriver.Support.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/WebDriver.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/SharpCompress.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/ICSharpCode.SharpZipLib.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/System.Diagnostics.EventLog.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/WebDriverManager.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/runtimes/win-x64/nativeassets/netcoreapp2.2/aspnetcorev2_inprocess.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/runtimes/win-x86/nativeassets/netcoreapp2.2/aspnetcorev2_inprocess.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/runtimes/win/lib/net9.0/System.Diagnostics.EventLog.Messages.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/runtimes/win/lib/net9.0/System.Diagnostics.EventLog.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/obj/Debug/net9.0/LumaAutomation.csproj.AssemblyReference.cache
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/obj/Debug/net9.0/LumaAutomation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/obj/Debug/net9.0/LumaAutomation.AssemblyInfoInputs.cache
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/obj/Debug/net9.0/LumaAutomation.AssemblyInfo.cs
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/obj/Debug/net9.0/LumaAutomation.csproj.CoreCompileInputs.cache
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/obj/Debug/net9.0/LumaAuto.0F2173A2.Up2Date
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/obj/Debug/net9.0/LumaAutomation.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/obj/Debug/net9.0/refint/LumaAutomation.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/obj/Debug/net9.0/LumaAutomation.pdb
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/obj/Debug/net9.0/LumaAutomation.genruntimeconfig.cache
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/obj/Debug/net9.0/ref/LumaAutomation.dll
+/Users/ruthelia/Desktop/LumaProejct/LumaAutomation/bin/Debug/net9.0/LumaAutomation.dll.config
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/selenium-manager/linux/selenium-manager
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/selenium-manager/macos/selenium-manager
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/selenium-manager/windows/selenium-manager.exe
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/NUnit3.TestAdapter.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/NUnit3.TestAdapter.pdb
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/nunit.engine.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/nunit.engine.api.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/nunit.engine.core.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/testcentric.engine.metadata.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/LumaAutomation.dll.config
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/LumaAutomation.deps.json
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/LumaAutomation.runtimeconfig.json
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/LumaAutomation.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/LumaAutomation.pdb
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/AngleSharp.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/DnsClient.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/SeleniumExtras.PageObjects.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/SeleniumExtras.WaitHelpers.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/ExtentReports.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Diagnostics.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.HostFiltering.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Hosting.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Http.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Http.Features.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Routing.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.IIS.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.Https.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.WebUtilities.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.Configuration.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.Console.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.Debug.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.EventSource.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.ObjectPool.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.Net.Http.Headers.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.Utilities.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/testhost.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/MongoDB.Bson.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/MongoDB.Driver.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/MongoDB.Driver.Core.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/MongoDB.Libmongocrypt.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/nunit.framework.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/nunit.framework.legacy.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/RazorEngine.NetCore.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/WebDriver.Support.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/WebDriver.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/SharpCompress.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/ICSharpCode.SharpZipLib.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/System.Diagnostics.EventLog.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/WebDriverManager.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/runtimes/win-x64/nativeassets/netcoreapp2.2/aspnetcorev2_inprocess.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/runtimes/win-x86/nativeassets/netcoreapp2.2/aspnetcorev2_inprocess.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/runtimes/win/lib/net9.0/System.Diagnostics.EventLog.Messages.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/bin/Debug/net9.0/runtimes/win/lib/net9.0/System.Diagnostics.EventLog.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/obj/Debug/net9.0/LumaAutomation.csproj.AssemblyReference.cache
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/obj/Debug/net9.0/LumaAutomation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/obj/Debug/net9.0/LumaAutomation.AssemblyInfoInputs.cache
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/obj/Debug/net9.0/LumaAutomation.AssemblyInfo.cs
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/obj/Debug/net9.0/LumaAutomation.csproj.CoreCompileInputs.cache
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/obj/Debug/net9.0/LumaAuto.0F2173A2.Up2Date
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/obj/Debug/net9.0/LumaAutomation.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/obj/Debug/net9.0/refint/LumaAutomation.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/obj/Debug/net9.0/LumaAutomation.pdb
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/obj/Debug/net9.0/LumaAutomation.genruntimeconfig.cache
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProejct/LumaAutomation/obj/Debug/net9.0/ref/LumaAutomation.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/selenium-manager/linux/selenium-manager
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/selenium-manager/macos/selenium-manager
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/selenium-manager/windows/selenium-manager.exe
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/NUnit3.TestAdapter.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/NUnit3.TestAdapter.pdb
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/nunit.engine.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/nunit.engine.api.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/nunit.engine.core.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/testcentric.engine.metadata.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/LumaAutomation.dll.config
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/LumaAutomation.deps.json
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/LumaAutomation.runtimeconfig.json
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/LumaAutomation.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/LumaAutomation.pdb
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/AngleSharp.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/DnsClient.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/SeleniumExtras.PageObjects.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/SeleniumExtras.WaitHelpers.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/ExtentReports.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Diagnostics.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.HostFiltering.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Hosting.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Http.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Http.Features.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Routing.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.IIS.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.Https.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.WebUtilities.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.Configuration.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.Console.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.Debug.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.EventSource.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.ObjectPool.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.Net.Http.Headers.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.Utilities.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/testhost.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/MongoDB.Bson.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/MongoDB.Driver.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/MongoDB.Driver.Core.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/MongoDB.Libmongocrypt.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/nunit.framework.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/nunit.framework.legacy.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/RazorEngine.NetCore.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/WebDriver.Support.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/WebDriver.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/SharpCompress.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/ICSharpCode.SharpZipLib.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/System.Diagnostics.EventLog.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/WebDriverManager.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/runtimes/win-x64/nativeassets/netcoreapp2.2/aspnetcorev2_inprocess.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/runtimes/win-x86/nativeassets/netcoreapp2.2/aspnetcorev2_inprocess.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/runtimes/win/lib/net9.0/System.Diagnostics.EventLog.Messages.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/bin/Debug/net9.0/runtimes/win/lib/net9.0/System.Diagnostics.EventLog.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/obj/Debug/net9.0/LumaAutomation.csproj.AssemblyReference.cache
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/obj/Debug/net9.0/LumaAutomation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/obj/Debug/net9.0/LumaAutomation.AssemblyInfoInputs.cache
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/obj/Debug/net9.0/LumaAutomation.AssemblyInfo.cs
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/obj/Debug/net9.0/LumaAutomation.csproj.CoreCompileInputs.cache
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/obj/Debug/net9.0/LumaAuto.0F2173A2.Up2Date
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/obj/Debug/net9.0/LumaAutomation.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/obj/Debug/net9.0/refint/LumaAutomation.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/obj/Debug/net9.0/LumaAutomation.pdb
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/obj/Debug/net9.0/LumaAutomation.genruntimeconfig.cache
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject/LumaAutomation/obj/Debug/net9.0/ref/LumaAutomation.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/selenium-manager/linux/selenium-manager
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/selenium-manager/macos/selenium-manager
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/selenium-manager/windows/selenium-manager.exe
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/NUnit3.TestAdapter.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/NUnit3.TestAdapter.pdb
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/nunit.engine.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/nunit.engine.api.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/nunit.engine.core.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/testcentric.engine.metadata.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/LumaAutomation.dll.config
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/LumaAutomation.deps.json
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/LumaAutomation.runtimeconfig.json
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/LumaAutomation.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/LumaAutomation.pdb
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/AngleSharp.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/DnsClient.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/SeleniumExtras.PageObjects.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/SeleniumExtras.WaitHelpers.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/ExtentReports.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Diagnostics.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.HostFiltering.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Hosting.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Http.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Http.Features.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Routing.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.IIS.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.Https.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.WebUtilities.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.Configuration.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.Console.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.Debug.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.EventSource.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.ObjectPool.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.Net.Http.Headers.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.Utilities.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/testhost.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/MongoDB.Bson.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/MongoDB.Driver.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/MongoDB.Driver.Core.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/MongoDB.Libmongocrypt.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/nunit.framework.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/nunit.framework.legacy.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/RazorEngine.NetCore.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/WebDriver.Support.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/WebDriver.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/SharpCompress.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/ICSharpCode.SharpZipLib.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/System.Diagnostics.EventLog.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/WebDriverManager.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/runtimes/win-x64/nativeassets/netcoreapp2.2/aspnetcorev2_inprocess.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/runtimes/win-x86/nativeassets/netcoreapp2.2/aspnetcorev2_inprocess.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/runtimes/win/lib/net9.0/System.Diagnostics.EventLog.Messages.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/bin/Debug/net9.0/runtimes/win/lib/net9.0/System.Diagnostics.EventLog.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/obj/Debug/net9.0/LumaAutomation.csproj.AssemblyReference.cache
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/obj/Debug/net9.0/LumaAutomation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/obj/Debug/net9.0/LumaAutomation.AssemblyInfoInputs.cache
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/obj/Debug/net9.0/LumaAutomation.AssemblyInfo.cs
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/obj/Debug/net9.0/LumaAutomation.csproj.CoreCompileInputs.cache
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/obj/Debug/net9.0/LumaAuto.0F2173A2.Up2Date
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/obj/Debug/net9.0/LumaAutomation.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/obj/Debug/net9.0/refint/LumaAutomation.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/obj/Debug/net9.0/LumaAutomation.pdb
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/obj/Debug/net9.0/LumaAutomation.genruntimeconfig.cache
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_1/LumaAutomation/obj/Debug/net9.0/ref/LumaAutomation.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/obj/Debug/net9.0/LumaAutomation.csproj.AssemblyReference.cache
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/obj/Debug/net9.0/LumaAutomation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/obj/Debug/net9.0/LumaAutomation.AssemblyInfoInputs.cache
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/obj/Debug/net9.0/LumaAutomation.AssemblyInfo.cs
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/obj/Debug/net9.0/LumaAutomation.csproj.CoreCompileInputs.cache
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/obj/Debug/net9.0/LumaAutomation.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/obj/Debug/net9.0/refint/LumaAutomation.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/obj/Debug/net9.0/LumaAutomation.pdb
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/selenium-manager/linux/selenium-manager
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/selenium-manager/macos/selenium-manager
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/selenium-manager/windows/selenium-manager.exe
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/NUnit3.TestAdapter.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/NUnit3.TestAdapter.pdb
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/nunit.engine.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/nunit.engine.api.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/nunit.engine.core.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/testcentric.engine.metadata.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/LumaAutomation.dll.config
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/LumaAutomation.deps.json
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/LumaAutomation.runtimeconfig.json
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/LumaAutomation.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/LumaAutomation.pdb
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/AngleSharp.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/DnsClient.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/SeleniumExtras.PageObjects.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/SeleniumExtras.WaitHelpers.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/ExtentReports.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Diagnostics.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.HostFiltering.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Hosting.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Http.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Http.Features.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Routing.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.IIS.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.Https.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.AspNetCore.WebUtilities.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.Configuration.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.Console.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.Debug.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Logging.EventSource.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.ObjectPool.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.Net.Http.Headers.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.TestPlatform.Utilities.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/testhost.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/MongoDB.Bson.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/MongoDB.Driver.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/MongoDB.Driver.Core.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/MongoDB.Libmongocrypt.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/nunit.framework.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/nunit.framework.legacy.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/RazorEngine.NetCore.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/WebDriver.Support.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/WebDriver.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/SharpCompress.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/ICSharpCode.SharpZipLib.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/System.Diagnostics.EventLog.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/WebDriverManager.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/runtimes/win-x64/nativeassets/netcoreapp2.2/aspnetcorev2_inprocess.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/runtimes/win-x86/nativeassets/netcoreapp2.2/aspnetcorev2_inprocess.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/runtimes/win/lib/net9.0/System.Diagnostics.EventLog.Messages.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/bin/Debug/net9.0/runtimes/win/lib/net9.0/System.Diagnostics.EventLog.dll
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/obj/Debug/net9.0/LumaAuto.0F2173A2.Up2Date
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/obj/Debug/net9.0/LumaAutomation.genruntimeconfig.cache
+/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/obj/Debug/net9.0/ref/LumaAutomation.dll
