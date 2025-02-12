@@ -32,6 +32,21 @@ namespace LumaAutomation.pageObjects
         {
                 driver.FindElement(By.Id(locator)).SendKeys(fillText);   
         }
+
+        public void confirmCreateAccount()
+        {
+            driver.FindElement(By.XPath("//button[@title='Create an Account']//span[contains(text(),'Create an Account')]")).Click(); 
+        }
+
+        public void createaccountInvalid(String locator)
+        {
+                IWebElement errorMessage = driver.FindElement(By.XPath("//input[@id='" + locator + "']/following-sibling::div[@class='mage-error']")); 
+                String errorText = errorMessage.Text;   
+                Console.WriteLine(errorText); 
+                String expectedTExt = "This is a required field.";
+                Assert.That(expectedTExt, Is.EqualTo(errorText)); 
+        }
+
         
     }
 }

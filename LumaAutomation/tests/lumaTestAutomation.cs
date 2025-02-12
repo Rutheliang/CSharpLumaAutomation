@@ -15,8 +15,8 @@ using WebDriverManager.DriverConfigs.Impl;
         public class LumaTest : Base
         {
 
-            [Test]
-            public void searchIteam()
+            [Test, Category("Smoke")]
+            public void addItem()
 
             {
                 HomePage search_item = new HomePage(getDriver());
@@ -29,10 +29,9 @@ using WebDriverManager.DriverConfigs.Impl;
                 add_to_cart.addToCart();                
             }
 
-        
-          [Test, TestCaseSource("AddTestDataConfig")]
           
-            public void createAccount(string firstName)
+          [Test, TestCaseSource("AddTestDataConfig")]
+            public void createAccount(string firstName, string lastName, string emailAdd, string passWord, string confirmPassword)
 
             {
                 CreateAccountPage create_account = new CreateAccountPage(getDriver());
@@ -40,20 +39,41 @@ using WebDriverManager.DriverConfigs.Impl;
 
                 CreateAccountPage personal_info = new CreateAccountPage(getDriver());
                 personal_info.personalInformation("firstname", firstName);
-                personal_info.personalInformation("lastname", "Lastname");
+                personal_info.personalInformation("lastname", lastName);
 
                 CreateAccountPage signin_info = new CreateAccountPage(getDriver());
-                signin_info.signinInformation("email_address", "test@yahoo.com");
-                signin_info.signinInformation("password", "Testing@1234");
-                signin_info.signinInformation("password-confirmation", "Testing@1234");
-            }
+                signin_info.signinInformation("email_address", emailAdd);
+                signin_info.signinInformation("password", passWord);
+                signin_info.signinInformation("password-confirmation", confirmPassword);
 
+                CreateAccountPage confirm_create_account = new CreateAccountPage(getDriver());
+                confirm_create_account.confirmCreateAccount();
+            }
 
             public static IEnumerable<TestCaseData> AddTestDataConfig()
-
             {
-                yield return new TestCaseData("Ruthelia");
+            yield return new TestCaseData("Ruthelia", "Rodri", "test@yahoo.com", "Testing@1234", "Testing@1234");
+            yield return new TestCaseData("Mark", "Villa", "abc@gmail.com", "Testing@5678", "Testing@5678");
             }
+
+
+            [Test]
+            
+            public void createAccount_validationError()
+            {
+                CreateAccountPage create_account = new CreateAccountPage(getDriver());
+                create_account.createAccount();  
+
+                CreateAccountPage confirm_create_account = new CreateAccountPage(getDriver());
+                confirm_create_account.confirmCreateAccount();
+                
+                CreateAccountPage validation_error = new CreateAccountPage(getDriver());
+                validation_error.createaccountInvalid("firstname");            
+                validation_error.createaccountInvalid("lastname");
+
+
+            }
+        
 
 
         }
