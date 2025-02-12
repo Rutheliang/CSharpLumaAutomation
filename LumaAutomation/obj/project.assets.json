@@ -10492,11 +10492,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/LumaAutomation.csproj",
+      "projectUniqueName": "/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_PageObject/LumaAutomation/LumaAutomation.csproj",
       "projectName": "LumaAutomation",
-      "projectPath": "/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/LumaAutomation.csproj",
+      "projectPath": "/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_PageObject/LumaAutomation/LumaAutomation.csproj",
       "packagesPath": "/Users/ruthelia/.nuget/packages/",
-      "outputPath": "/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/obj/",
+      "outputPath": "/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_PageObject/LumaAutomation/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ruthelia/.nuget/NuGet/NuGet.Config"

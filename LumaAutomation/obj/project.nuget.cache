@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r0fciuDYp2E=",
+  "dgSpecHash": "dWACZdH4BMI=",
   "success": true,
-  "projectFilePath": "/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_2/LumaAutomation/LumaAutomation.csproj",
+  "projectFilePath": "/Users/ruthelia/Desktop/SELENIUM C#/PRACTICE PROJECTS/LumaProject_PageObject/LumaAutomation/LumaAutomation.csproj",
   "expectedPackageFiles": [
     "/Users/ruthelia/.nuget/packages/anglesharp/1.1.2/anglesharp.1.1.2.nupkg.sha512",
     "/Users/ruthelia/.nuget/packages/dnsclient/1.2.0/dnsclient.1.2.0.nupkg.sha512",
