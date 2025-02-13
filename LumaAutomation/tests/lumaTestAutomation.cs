@@ -70,6 +70,9 @@ using WebDriverManager.DriverConfigs.Impl;
                 CreateAccountPage validation_error = new CreateAccountPage(getDriver());
                 validation_error.createaccountInvalid("firstname");            
                 validation_error.createaccountInvalid("lastname");
+                validation_error.createaccountInvalid("email_address");
+                validation_error.createaccountInvalid("password");
+                validation_error.createaccountInvalid("password-confirmation");
 
 
             }
