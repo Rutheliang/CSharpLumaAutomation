@@ -17,18 +17,12 @@ namespace LumaAutomation.pageObjects
             this.driver = driver;           
         }
 
-         public void createAccount()
+        public void createAccount()
         {
             driver.FindElement(By.LinkText("Create an Account")).Click(); 
         }
 
-        public void personalInformation(String locator, String fillText)
-        {
-                driver.FindElement(By.Id(locator)).SendKeys(fillText);   
-        }
-
-
-        public void signinInformation(String locator, String fillText)
+        public void fillInput(String locator, String fillText)
         {
                 driver.FindElement(By.Id(locator)).SendKeys(fillText);   
         }
@@ -38,7 +32,7 @@ namespace LumaAutomation.pageObjects
             driver.FindElement(By.XPath("//button[@title='Create an Account']//span[contains(text(),'Create an Account')]")).Click(); 
         }
 
-        public void createaccountInvalid(String locator)
+        public void validationError(String locator)
         {
                 IWebElement errorMessage = driver.FindElement(By.XPath("//input[@id='" + locator + "']/following-sibling::div[@class='mage-error']")); 
                 String errorText = errorMessage.Text;   
