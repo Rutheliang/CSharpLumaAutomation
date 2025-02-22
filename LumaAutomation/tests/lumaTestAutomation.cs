@@ -33,7 +33,7 @@ using WebDriverManager.DriverConfigs.Impl;
 
             [Test, TestCaseSource("AddTestDataConfig")]
             public void createAccount(string firstName, string lastName, string emailAdd, string passWord, string confirmPassword)
- 
+
             {
                 CreateAccountPage create_account = new CreateAccountPage(getDriver());
                 create_account.createAccount();  

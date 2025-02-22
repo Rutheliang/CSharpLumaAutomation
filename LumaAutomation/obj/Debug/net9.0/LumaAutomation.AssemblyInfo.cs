@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LumaAutomation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf02846da0e30bad2cbb7a360f0ba82009bd4198")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45ed60853a65b49ceec264c1ae6ab6ecdd0603ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("LumaAutomation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LumaAutomation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
